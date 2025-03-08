@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -101,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
