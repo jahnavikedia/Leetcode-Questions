@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 ## Two Pointers
 |  |
@@ -131,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
