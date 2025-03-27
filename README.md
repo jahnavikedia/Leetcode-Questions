@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 ## Union Find
 |  |
