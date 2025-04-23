@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
+| [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 ## Design
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -189,4 +192,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
