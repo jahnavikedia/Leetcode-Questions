@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0041-first-missing-positive) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -183,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
