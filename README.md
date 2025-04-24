@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -178,11 +181,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
