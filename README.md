@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
+| [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 ## Data Stream
 |  |
