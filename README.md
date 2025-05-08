@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -230,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
