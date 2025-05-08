@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 ## Design
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 ## Divide and Conquer
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 ## Union Find
 |  |
