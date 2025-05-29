@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
