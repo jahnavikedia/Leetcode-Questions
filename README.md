@@ -222,12 +222,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -276,12 +278,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
