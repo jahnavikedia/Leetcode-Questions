@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 ## Depth-First Search
