@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
 | ------- |
