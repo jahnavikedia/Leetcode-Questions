@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 ## Hash Function
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
