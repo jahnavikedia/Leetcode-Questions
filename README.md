@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
+| [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 ## Heap (Priority Queue)
 |  |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 ## Data Stream
@@ -189,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -205,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -407,4 +413,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
