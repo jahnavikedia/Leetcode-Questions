@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -417,4 +421,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
