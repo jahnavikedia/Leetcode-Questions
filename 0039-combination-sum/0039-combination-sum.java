@@ -11,11 +11,12 @@ class Solution {
             result.add(new ArrayList<>(temp));
             return;
         }
-        if(target < 0 || start == nums.length ) return;
-        temp.add(nums[start]);
-        backtrack(start, nums, target - nums[start], result, temp);
-        temp.remove(temp.size()-1);
-
-        backtrack(start+1,nums,target,result,temp);
+        for(int i=start;i<nums.length;i++)
+        {
+            if(target<0) break;
+            temp.add(nums[i]);
+            backtrack(i,nums,target-nums[i],result,temp);
+            temp.remove(temp.size()-1);
+        }
     }
 }
