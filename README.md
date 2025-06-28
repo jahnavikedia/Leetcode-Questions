@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0090-subsets-ii) |
@@ -266,10 +268,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0100-same-tree) |
@@ -342,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
