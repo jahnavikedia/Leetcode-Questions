@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0890-lemonade-change) |
