@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1250-longest-common-subsequence) |
 | [2001-jump-game-vii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2001-jump-game-vii) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1250-longest-common-subsequence) |
 | [2001-jump-game-vii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2001-jump-game-vii) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0890-lemonade-change) |
