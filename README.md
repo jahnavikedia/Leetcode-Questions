@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
