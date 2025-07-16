@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1236-n-th-tribonacci-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1250-longest-common-subsequence) |
 | [2001-jump-game-vii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2001-jump-game-vii) |
 ## Math
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1236-n-th-tribonacci-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
