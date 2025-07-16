@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
