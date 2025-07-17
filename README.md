@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0516-longest-palindromic-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
