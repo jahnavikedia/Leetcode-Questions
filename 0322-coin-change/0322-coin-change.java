@@ -1,25 +1,20 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        int t[][] = new int[n+1][amount + 1];
         int INF = amount+1;
-        for(int j=0;j<amount+1;j++) t[0][j] = INF;
-        for (int i = 0; i <= n; i++) t[i][0] = 0;
-        for(int i=1;i<=n;i++)
+        int t[] = new int[INF];
+        Arrays.fill(t,INF);
+        t[0] = 0;
+        for(int i = 1;i<=amount;i++)
         {
-            for(int j=0;j<=amount;j++)
+            for(int coin: coins) 
             {
-                if(coins[i-1]<=j)
+                if(coin<=i && t[i-coin]!=INF)
                 {
-                    t[i][j] = Math.min(t[i-1][j], 1 + t[i][j-coins[i-1]]);
-                }
-                else
-                {
-                    t[i][j] = t[i-1][j];
+                    t[i] = Math.min(t[i],1+t[i-coin]);
                 }
             }
         }
-        if(t[n][amount] == INF) return -1;
-        return t[n][amount];
-    } 
+        if(t[amount]>amount) return -1; return t[amount];
+    }
 }
