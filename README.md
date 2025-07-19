@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0198-house-robber) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -577,12 +581,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1236-n-th-tribonacci-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 ## Ordered Set
 |  |
