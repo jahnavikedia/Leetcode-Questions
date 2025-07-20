@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0091-decode-ways) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
