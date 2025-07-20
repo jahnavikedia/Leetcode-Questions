@@ -12,7 +12,6 @@ class Solution {
             for(int j=1;j<n;j++)
             {
                 if(grid[i][j]!=1) t[i][j] = t[i-1][j] + t[i][j-1];
-                else grid[i][j] = 0;
             }
         }
         return t[m-1][n-1];
