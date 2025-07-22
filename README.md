@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0337-house-robber-iii) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
