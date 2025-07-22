@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
