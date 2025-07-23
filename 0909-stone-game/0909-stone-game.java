@@ -1,18 +1,15 @@
 class Solution {
     public boolean stoneGame(int[] piles) {
         int n = piles.length;
-        int dp[][] = new int[n][n];
-        for(int i=0;i<n;i++) dp[i][i] = piles[i];
-        for(int i=2;i<=n;i++)
-        {
-            for(int left = 0;left<=n-i;left++)
-            {
-                int right = left+i-1;
-                int pickLeft = piles[left] - dp[left+1][right];
-                int pickRight = piles[right] - dp[left][right-1];
-                dp[left][right] = Math.max(pickLeft,pickRight); 
-            }
-        }
-        return dp[0][n-1]>0;
+        Integer dp[][] = new Integer[n][n];
+        return solve(piles,0,n-1,dp)>0;
+    }
+    public int solve(int piles[], int left, int right, Integer dp[][])
+    {
+        if(left>right) return 0;
+        if(dp[left][right] != null) return dp[left][right];
+        int pickLeft = piles[left]-solve(piles,left+1,right,dp);
+        int pickRight = piles[right]-solve(piles,left,right-1,dp);
+        return dp[left][right] = Math.max(pickLeft,pickRight);
     }
 }
