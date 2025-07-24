@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -677,5 +680,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
