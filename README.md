@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1130-last-stone-weight-ii) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0931-maximum-frequency-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0931-maximum-frequency-stack) |
+| [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
