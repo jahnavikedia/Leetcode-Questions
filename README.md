@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1250-longest-common-subsequence) |
 | [2001-jump-game-vii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2001-jump-game-vii) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0747-min-cost-climbing-stairs) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
@@ -398,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -444,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -467,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
