@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 | [1558-course-schedule-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -742,4 +746,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
