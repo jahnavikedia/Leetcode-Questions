@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Array
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1522-stone-game-iii) |
+| [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Two Pointers
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
+| [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Data Stream
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
+| [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -429,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -465,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1450-delete-leaves-with-a-given-value](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -496,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
