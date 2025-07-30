@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1522-stone-game-iii) |
+| [1706-min-cost-to-connect-all-points](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1706-min-cost-to-connect-all-points](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 | [1558-course-schedule-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -763,4 +766,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
