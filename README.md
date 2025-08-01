@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
@@ -778,4 +780,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
