@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0494-target-sum) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
