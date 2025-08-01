@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Array
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1522-stone-game-iii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 ## Data Stream
 |  |
@@ -796,4 +800,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
