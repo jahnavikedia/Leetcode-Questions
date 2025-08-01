@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0931-maximum-frequency-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0931-maximum-frequency-stack) |
 | [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
+| [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -586,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
+| [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 ## Greedy
 |  |
 | ------- |
