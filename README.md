@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0394-decode-string) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0229-majority-element-ii) |
@@ -769,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 ## Ordered Set
 |  |
 | ------- |
