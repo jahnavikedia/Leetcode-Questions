@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0394-decode-string) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0463-island-perimeter) |
@@ -646,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -781,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0212-word-search-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2755-extra-characters-in-a-string) |
 ## Ordered Set
 |  |
