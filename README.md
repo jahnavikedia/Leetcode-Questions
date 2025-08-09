@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
+| [1023-time-based-key-value-store](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [2001-jump-game-vii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2001-jump-game-vii) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1023-time-based-key-value-store](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0931-maximum-frequency-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0937-online-stock-span) |
+| [1023-time-based-key-value-store](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0931-maximum-frequency-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0931-maximum-frequency-stack) |
+| [1023-time-based-key-value-store](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 | [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2755-extra-characters-in-a-string) |
