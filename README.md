@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1304-longest-happy-string) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0948-sort-an-array) |
@@ -384,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0931-maximum-frequency-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0931-maximum-frequency-stack) |
@@ -415,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -648,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
