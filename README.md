@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 ## Hash Function
@@ -867,4 +870,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0948-sort-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
