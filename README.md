@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 | [0931-maximum-frequency-stack](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0937-online-stock-span) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0621-task-scheduler) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
 ## Hash Function
 |  |
@@ -874,4 +877,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
