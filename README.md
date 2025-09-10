@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -782,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
