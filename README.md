@@ -890,4 +890,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0460-lfu-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
