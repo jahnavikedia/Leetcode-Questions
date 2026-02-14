@@ -1,12 +1,12 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int min = prices[0], max = prices[0], profit =0;
-        int n = prices.length;
-        for(int i=1;i<n;i++)
+        int min = prices[0], max = prices[0];
+        int profit = 0;
+        for(int i=1;i<prices.length;i++)
         {
             if(prices[i]-min > profit)
             {
-                profit = prices[i]-min;
+                profit = prices[i] - min;
                 max = prices[i];
             }
             if(prices[i]<min)
