@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0343-integer-break) |
 | [0909-stone-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0909-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1240-stone-game-ii) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
@@ -429,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
@@ -448,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
@@ -814,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
