@@ -10,46 +10,38 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        ListNode middle = findMiddle(head);
-        ListNode middleNext = middle.next;
-        middle.next=null;
-        ListNode newNodeHead = reverse(middleNext);
-        ListNode p = head;
-        ListNode q = newNodeHead;
-        while(q!=null)
-        {
-            ListNode r = q.next;
-            q.next = p.next;
-            p.next=q;
-            p = q.next;
-            q = r;
-        }
-        return;
-    }
-    public ListNode findMiddle(ListNode head)
-    {
+        if(head==null || head.next==null) return;
         ListNode slow = head;
         ListNode fast = head;
-        while(fast!=null && fast.next!=null)
+        while(fast.next != null && fast.next.next!=null)
         {
-            slow = slow.next;
+            slow=slow.next;
             fast = fast.next.next;
         }
-        return slow;
+        ListNode second = reverse(slow.next);
+        slow.next = null;
+        ListNode first = head;
+        while(second!=null)
+        {
+            ListNode temp1 = first.next;
+            ListNode temp2 = second.next;
+            first.next = second;
+            second.next = temp1;
+            first = temp1;
+            second= temp2;
+        }
     }
+
     public ListNode reverse(ListNode head)
     {
-        ListNode p = null, q = head, r=null;
+        ListNode p=null, q=head, r = null;
         while(q!=null)
         {
-            r = q.next;
+            r=q.next;
             q.next = p;
-            p = q;
-            q = r;
+            p=q;
+            q=r;
         }
         return p;
     }
-
-
-
 }
