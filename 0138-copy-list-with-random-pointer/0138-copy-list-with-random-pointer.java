@@ -15,30 +15,30 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
+        Node p = head;
+        while(p!=null)
+        {
+            Node curr = new Node(p.val);
+            curr.next = p.next;
+            p.next = curr;
+            p=p.next.next;
+        }
+        p=head;
+        while(p!=null)
+        {
+            if(p.random!=null)
+            p.next.random = p.random.next;
+            p=p.next.next;
+        }
         Node dummy = new Node(-1);
-        Node curr = head;
-        while(curr!=null)
+        p = head;
+        Node q = dummy;
+        while(p!=null)
         {
-            Node clone = new Node(curr.val);
-            clone.next = curr.next;
-            curr.next = clone;
-            curr = clone.next;
-        }
-        curr = head;
-        while(curr!=null)
-        {
-            if(curr.random!=null)
-                curr.next.random = curr.random.next;
-            curr = curr.next.next;
-        }
-        curr = head;
-        Node copy = dummy;
-        while(curr!=null)
-        {
-            copy.next = curr.next;
-            curr.next = curr.next.next;
-            curr = curr.next;
-            copy = copy.next;
+            q.next = p.next;
+            p.next = q.next.next;
+            p = p.next;
+            q=q.next;
         }
         return dummy.next;
     }
