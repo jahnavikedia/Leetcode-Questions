@@ -18,7 +18,6 @@ class Solution {
     }
     public long dfs(int grid[][], int m, int n, int i, int j)
     {
-        if(grid[i][j]==0) return 0;
         long val = grid[i][j];
         grid[i][j] = 0;
         for(int d[] : dir)
