@@ -926,4 +926,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
