@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0768-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0917-boats-to-save-people) |
 ## Design
 |  |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0816-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
 | ------- |
