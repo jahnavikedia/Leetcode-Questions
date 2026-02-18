@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1522-stone-game-iii) |
 | [2001-jump-game-vii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2755-extra-characters-in-a-string) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2479-meeting-rooms-iii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/2755-extra-characters-in-a-string) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
