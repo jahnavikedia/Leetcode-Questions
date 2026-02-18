@@ -1,29 +1,34 @@
 class Solution {
     public int[] findOrder(int n, int[][] preReq) {
         ArrayList<Integer> op = new ArrayList<>();
-        Map<Integer,List<Integer>> map = new HashMap<>();
-        for(int i=0;i<n;i++) map.put(i,new ArrayList<>());
+        Queue<Integer> q = new LinkedList<>();
+        Map<Integer,List<Integer>> adj = new HashMap<>();
         int in[] = new int[n];
-        for(int[] pre : preReq)
+        for(int i=0;i<n;i++)adj.put(i,new ArrayList<>());
+        for(int pre[] : preReq)
         {
-            map.get(pre[1]).add(pre[0]);
+            adj.get(pre[1]).add(pre[0]);
             in[pre[0]]++;
         }
-        Queue<Integer> q = new LinkedList<>();
-        for(int i=0;i<n;i++) if(in[i]==0) q.offer(i);
+        for(int i=0;i<n;i++)if(in[i]==0)q.offer(i);
+        int count=0;
         while(!q.isEmpty())
         {
-            int f=q.poll();
+            count++;
+            int f = q.poll();
             op.add(f);
-            for(int nbr: map.get(f))
+            for(int nbr : adj.get(f))
             {
                 in[nbr]--;
-                if(in[nbr]==0) q.offer(nbr);
+                if(in[nbr]==0)q.offer(nbr);
             }
         }
-        if(op.size()!=n) return new int[0];
-        int result[] = new int[n];
-        for(int i=0;i<n;i++)result[i] = op.get(i);
-        return result;
+        if(count!=n) return new int[0];
+        int res[] = new int[n];
+        for(int i=0;i<n;i++)
+        {
+            res[i] = op.get(i);
+        }
+        return res;
     }
 }
