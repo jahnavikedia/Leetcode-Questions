@@ -7,20 +7,19 @@ class Solution {
         {
             if(nums[i]>0) break;
             int target = -nums[i];
-            int j = i+1;
-            int k = n-1;
+            int j=i+1,k=n-1;
             while(j<k)
             {
-                if(nums[j]+nums[k] == target)
-                {
+                int sum = nums[j]+nums[k];
+                if(sum == target){
                     set.add(Arrays.asList(nums[i],nums[j],nums[k]));
                     j++;
                     k--;
-                }
-                else if(nums[j]+nums[k]<target) j++;
+                } 
+                else if(sum<target) j++;
                 else k--;
             }
         }
-        return new ArrayList(set);
+        return new ArrayList<>(set);
     }
 }
