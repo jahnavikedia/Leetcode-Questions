@@ -2,12 +2,12 @@ class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
         int INF = amount+1;
-        int t[] = new int[INF];
+        int t[] = new int[amount+1];
         Arrays.fill(t,INF);
         t[0] = 0;
-        for(int i = 1;i<=amount;i++)
+        for(int i=1;i<=amount;i++)
         {
-            for(int coin: coins) 
+            for(int coin:coins)
             {
                 if(coin<=i && t[i-coin]!=INF)
                 {
@@ -15,6 +15,7 @@ class Solution {
                 }
             }
         }
-        if(t[amount]>amount) return -1; return t[amount];
+        if(t[amount]>amount) return -1;
+        return t[amount];
     }
 }
