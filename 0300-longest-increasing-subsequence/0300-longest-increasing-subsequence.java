@@ -8,9 +8,12 @@ class Solution {
         {
             for(int j=0;j<i;j++)
             {
-                if(nums[i]>nums[j] && t[i]<=t[j]) t[i] = 1+t[j];
+                if(nums[i]>nums[j] && t[i]<=t[j])
+                {
+                    t[i] = 1+t[j];
+                }
             }
-             max = Math.max(max,t[i]);
+            max = Math.max(max,t[i]);
         }
         return max;
     }
