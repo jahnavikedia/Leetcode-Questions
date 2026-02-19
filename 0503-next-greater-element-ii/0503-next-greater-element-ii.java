@@ -7,7 +7,7 @@ class Solution {
          {
             int ind = i%n;
             if(stack.isEmpty()) op[ind] = -1;
-            else if(i<n && stack.peek()>nums[ind]) op[i] = op[ind]=stack.peek();
+            else if(i<n && stack.peek()>nums[ind]) op[ind]=stack.peek();
             else
             {
                 while(!stack.isEmpty() && stack.peek()<=nums[ind]) stack.pop();
