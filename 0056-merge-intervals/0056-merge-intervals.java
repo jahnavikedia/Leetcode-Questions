@@ -1,10 +1,10 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals,(a,b)-> a[0]-b[0]);
         int n = intervals.length;
+        Arrays.sort(intervals,(a,b)->a[0]-b[0]);
         List<int[]> op = new ArrayList<>();
-        int j=0;
         op.add(intervals[0]);
+        int j=0;
         for(int i=1;i<n;i++)
         {
             if(op.get(j)[1]>=intervals[i][0])
