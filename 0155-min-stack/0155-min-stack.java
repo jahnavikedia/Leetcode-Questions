@@ -1,8 +1,8 @@
 class MinStack {
+    public Stack<Long> stack;
     public static long minEle;
-    public Stack<Long> stack = new Stack<>();
     public MinStack() {
-        
+        stack = new Stack<>();
     }
     
     public void push(long val) {
@@ -11,37 +11,31 @@ class MinStack {
             stack.push(val);
             minEle = val;
         }
-        else{
+        else
+        {
             if(val<minEle)
             {
                 stack.push(2*val - minEle);
                 minEle = val;
             }
-            else{
-                stack.push(val);
-            }
+            else stack.push(val);
         }
     }
     
     public void pop() {
         if(stack.peek()<minEle)
         {
-            minEle = 2 * minEle - stack.pop();
+            minEle = 2*minEle - stack.pop();
         }
-        else{
-            stack.pop();
-        }
+        else stack.pop();
     }
     
     public long top() {
         if(stack.peek()<minEle) return minEle;
-        else{
-            return stack.peek();
-        }
+        return stack.peek();
     }
     
     public long getMin() {
-        if(stack.isEmpty()) return -1;
         return minEle;
     }
 }
