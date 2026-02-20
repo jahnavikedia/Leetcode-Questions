@@ -4,11 +4,9 @@ class Solution {
         int n = nums.length;
         while(read<n)
         {
-            int count =0;
             int curr = nums[read];
             while(read<n && nums[read]==curr)
             {
-                count++;
                 read++;
             }
             nums[write++]=curr;
