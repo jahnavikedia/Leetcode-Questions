@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1039-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1130-last-stone-weight-ii) |
 | [1184-car-pooling](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1184-car-pooling) |
@@ -566,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1753-path-with-minimum-effort) |
