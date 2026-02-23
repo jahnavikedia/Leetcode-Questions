@@ -1,29 +1,31 @@
 class Solution {
+    int dir[][] = {{-1,0},{1,0},{0,1},{0,-1}};
     public boolean exist(char[][] board, String word) {
-        int row = board.length;
-        int col= board[0].length;
-        boolean visited[][] = new boolean[row][col];
-        for(int i=0;i<row;i++)
+        int m = board.length;
+        int n = board[0].length;
+        for(int i=0;i<m;i++)
         {
-            for(int j=0;j<col;j++)
+            for(int j=0;j<n;j++)
             {
-                if(backtrack(board,word,0,i,j,visited)) return true;
+                if(backtrack(board,word, m, n, 0, i, j)) return true;
             }
         }
         return false;
     }
 
-    private boolean backtrack(char[][] board, String word, int index, int row,int col, boolean visited[][])
+    public boolean backtrack(char board[][], String word, int m, int n, int idx, int i, int j)
     {
-        if(index == word.length()) return true;
-        if(row < 0 || row >=  board.length || col<0 || col>= board[0].length ||
-            board[row][col]!=word.charAt(index) || visited[row][col]) return false;
-        visited[row][col] = true;
-        boolean found = backtrack(board,word, index+1, row+1,col,visited) || 
-                        backtrack(board,word, index+1, row-1,col,visited) ||
-                        backtrack(board,word, index+1, row,col+1,visited) ||
-                        backtrack(board,word, index+1, row,col-1,visited);
-        visited[row][col] = false;
-        return found;
+        if(word.length() == idx) return true;
+        if(i<0 || j<0 || i>=m || j>=n || board[i][j]!=word.charAt(idx)) return false;
+        char temp = board[i][j];
+        board[i][j] = '#';
+        for(int d[] : dir)
+        {
+            int x = d[0]+i;
+            int y = d[1]+j;
+            if(backtrack(board, word, m, n, idx+1, x,y) == true) return true;
+        }
+        board[i][j] = temp;
+        return false;
     }
 }
