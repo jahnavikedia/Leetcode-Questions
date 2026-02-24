@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0983-minimum-cost-for-tickets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1240-stone-game-ii) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [0983-minimum-cost-for-tickets](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/jahnavikedia/Leetcode-Questions/tree/master/1036-rotting-oranges) |
