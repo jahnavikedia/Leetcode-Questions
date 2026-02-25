@@ -1,6 +1,6 @@
 class MinStack {
     public Stack<Long> stack;
-    public static long minEle;
+    public long minEle;
     public MinStack() {
         stack = new Stack<>();
     }
@@ -8,25 +8,18 @@ class MinStack {
     public void push(long val) {
         if(stack.isEmpty())
         {
-            stack.push(val);
+            stack.push(val); minEle = val;
+        }
+        if(val<minEle)
+        {
+            stack.push(2*val-minEle);
             minEle = val;
         }
-        else
-        {
-            if(val<minEle)
-            {
-                stack.push(2*val - minEle);
-                minEle = val;
-            }
-            else stack.push(val);
-        }
+        else stack.push(val);
     }
     
     public void pop() {
-        if(stack.peek()<minEle)
-        {
-            minEle = 2*minEle - stack.pop();
-        }
+        if(stack.peek()<minEle) minEle = 2*minEle-stack.pop();
         else stack.pop();
     }
     
