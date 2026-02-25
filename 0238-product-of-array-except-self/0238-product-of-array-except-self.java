@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int op[] = new int[n];
         op[0] = 1;
-        for(int i=1;i<n;i++)op[i] = op[i-1]*nums[i-1];
+        for(int i=1;i<n;i++) op[i] = nums[i-1]*op[i-1];
         int temp = nums[n-1];
         for(int i=n-2;i>=0;i--)
         {
