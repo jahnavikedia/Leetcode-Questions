@@ -7,8 +7,8 @@ class Solution {
             if(digits[i]<10) return digits;
             digits[i] = 0;
         }
-        int result[] = new int[n+1];
-        result[0] = 1;
-        return result;
+        int res[] = new int[n+1];
+        res[0] = 1;
+        return res;
     }
 }
