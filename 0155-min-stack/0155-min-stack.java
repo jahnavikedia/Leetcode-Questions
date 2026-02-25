@@ -10,12 +10,14 @@ class MinStack {
         {
             stack.push(val); minEle = val;
         }
+        else{
         if(val<minEle)
         {
             stack.push(2*val-minEle);
             minEle = val;
         }
         else stack.push(val);
+        }
     }
     
     public void pop() {
