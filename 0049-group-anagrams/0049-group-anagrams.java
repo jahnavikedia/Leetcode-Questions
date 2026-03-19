@@ -3,18 +3,10 @@ class Solution {
         Map<String,List<String>> map = new HashMap<>();
         for(String str : strs)
         {
-            char ch[] = str.toCharArray();
-            Arrays.sort(ch);
-            String key = String.valueOf(ch);
-            if(map.containsKey(key))
-            {
-                map.get(key).add(str);
-            }
-            else
-            {
-                map.put(key,new ArrayList<>());
-                map.get(key).add(str);
-            }
+            int count[] = new int[26];
+            for(char ch : str.toCharArray()) count[ch-'a']++;
+            String key = Arrays.toString(count);
+            map.computeIfAbsent(key, k->new ArrayList<>()).add(str);
         }
         return new ArrayList<>(map.values());
     }
