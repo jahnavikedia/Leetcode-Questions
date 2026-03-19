@@ -23,6 +23,7 @@ class Solution {
     public void dfs(TreeNode root, int k)
     {
         if(root==null) return;
+        if(count>=k) return;
         dfs(root.left,k);
         count++;
         if(count == k)
