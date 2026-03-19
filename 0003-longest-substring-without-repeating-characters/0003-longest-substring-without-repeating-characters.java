@@ -9,9 +9,9 @@ class Solution {
             char ch = s.charAt(j);
             while(map.containsKey(ch))
             {
-                char c= s.charAt(i);
+                char c = s.charAt(i);
                 map.put(c,map.get(c)-1);
-                if(map.get(c)==0) map.remove(c);
+                if(map.get(c)==0)map.remove(c);
                 i++;
             }
             map.put(ch,1);
