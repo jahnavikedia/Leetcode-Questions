@@ -2,7 +2,7 @@ class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
         int INF = amount+1;
-        int t[] = new int[amount+1];
+        int t[] = new int[INF];
         Arrays.fill(t,INF);
         t[0] = 0;
         for(int i=1;i<=amount;i++)
