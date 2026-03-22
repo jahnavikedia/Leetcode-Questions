@@ -15,23 +15,22 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        Node p = head;
+        Node p= head;
         while(p!=null)
         {
             Node curr = new Node(p.val);
             curr.next = p.next;
             p.next = curr;
-            p=p.next.next;
+            p = curr.next;
         }
         p=head;
         while(p!=null)
         {
-            if(p.random!=null)
-            p.next.random = p.random.next;
+            if(p.random!=null) p.next.random = p.random.next;
             p=p.next.next;
         }
         Node dummy = new Node(-1);
-        p = head;
+        p=head;
         Node q = dummy;
         while(p!=null)
         {
