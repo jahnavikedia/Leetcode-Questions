@@ -18,7 +18,7 @@ class Solution {
         {
             ListNode min = pq.poll();
             curr.next = min;
-            curr = curr.next;
+            curr = min;
             if(min.next!=null)pq.offer(min.next);
         }
         return dummy.next;
