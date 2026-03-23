@@ -2,21 +2,19 @@ class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         Set<String> set = new HashSet<>(wordDict);
         int n = s.length();
-        int maxLen =-1;
-        for(String word : wordDict) maxLen = Math.max(maxLen,word.length());
-        boolean t[] = new boolean[n+1];
-        t[0] = true;
-        for(int i=1;i<=n;i++)
+        boolean dp[] = new boolean[n+1];
+        dp[0] = true;
+        for(int j=1;j<=n;j++)
         {
-            for(int j=i-1;j>=Math.max(0,i-maxLen);j--)
+            for(int i=0;i<j;i++)
             {
-                if(t[j]&& set.contains(s.substring(j,i)))
+                if(dp[i]==true && set.contains(s.substring(i,j)))
                 {
-                    t[i] = true;
-                    break;
+                    dp[j] = true; break;
                 }
             }
         }
-        return t[n];
+        return dp[n];
+
     }
 }
