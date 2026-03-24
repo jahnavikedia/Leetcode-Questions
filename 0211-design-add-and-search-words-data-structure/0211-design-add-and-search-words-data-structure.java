@@ -1,49 +1,46 @@
-class TrieNode
-{
-    TrieNode children[] = new TrieNode[26];
-    boolean isEnd = false;
-}
 class WordDictionary {
-    private TrieNode root;
+    class TrieNode{
+        TrieNode children[] = new TrieNode[26];
+        boolean isEndOfWord = false;
+
+    }
+    TrieNode root;
     public WordDictionary() {
         root = new TrieNode();
     }
     
     public void addWord(String word) {
-        TrieNode node = root;
+        TrieNode curr = root;
         for(char ch : word.toCharArray())
         {
-            int index = ch-'a';
-            if(node.children[index] == null) node.children[index] = new TrieNode();
-            node = node.children[index];
+            int idx = ch-'a';
+            if(curr.children[idx]==null) curr.children[idx] = new TrieNode();
+            curr = curr.children[idx];
         }
-        node.isEnd = true;
+        curr.isEndOfWord = true;
     }
     
     public boolean search(String word) {
-       return dfs(0,word,root);
+        return dfs(word, 0, root);
     }
 
-    private boolean dfs(int index, String word, TrieNode node)
+    public boolean dfs(String word, int idx, TrieNode node)
     {
-        if(index == word.length()) return node.isEnd;
-        char ch = word.charAt(index);
-        if(ch=='.')
+        if(idx == word.length()) return node.isEndOfWord;
+        char c = word.charAt(idx);
+        if(c=='.')
         {
-            for(TrieNode t : node.children)
+            for(TrieNode child : node.children)
             {
-                if(t!=null && dfs(index+1,word,t))
-                {
-                    return true;
-                }
+                if(child!=null && dfs(word, idx+1, child)) return true; 
             }
             return false;
         }
         else
         {
-            int in = ch - 'a';
-            if(node.children[in]==null) return false;
-            return dfs(index+1,word,node.children[in]);
+            int i = c-'a';
+            if(node.children[i]==null) return false;
+            return dfs(word, idx+1,node.children[i]);
         }
     }
 }
