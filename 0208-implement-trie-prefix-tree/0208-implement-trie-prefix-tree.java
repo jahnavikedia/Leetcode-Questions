@@ -1,44 +1,43 @@
-class TrieNode
-{
-    TrieNode children[] = new TrieNode[26];
-    boolean isEnd = false;
-}
 class Trie {
-    private TrieNode root;
 
+    class TrieNode{
+        TrieNode children[] = new TrieNode[26];
+        boolean isEndOfWord = false;
+    }
+    TrieNode root;
     public Trie() {
         root = new TrieNode();
     }
     
     public void insert(String word) {
-        TrieNode node = root;
-        for(char ch: word.toCharArray())
+        TrieNode curr = root;
+        for(char ch : word.toCharArray())
         {
-            int index = ch - 'a';
-            if(node.children[index] == null) node.children[index] = new TrieNode();
-            node = node.children[index];
+            int idx = ch-'a';
+            if(curr.children[idx]==null) curr.children[idx] = new TrieNode();
+            curr = curr.children[idx];
         }
-        node.isEnd = true;
+        curr.isEndOfWord = true;
     }
     
     public boolean search(String word) {
-        TrieNode node = root;
-        for(char ch: word.toCharArray())
+        TrieNode curr = root;
+        for(char ch : word.toCharArray())
         {
-            int index = ch-'a';
-            if(node.children[index]==null) return false;
-            node = node.children[index];
+            int idx = ch-'a';
+            if(curr.children[idx]==null) return false;
+            curr = curr.children[idx];
         }
-        return node.isEnd;
+        return curr.isEndOfWord;
     }
     
     public boolean startsWith(String prefix) {
-        TrieNode node = root;
-        for(char ch: prefix.toCharArray())
+        TrieNode curr = root;
+        for(char ch:prefix.toCharArray())
         {
-            int index = ch-'a';
-            if(node.children[index]==null) return false;
-            node = node.children[index];
+            int idx = ch-'a';
+            if(curr.children[idx]==null) return false;
+            curr = curr.children[idx];
         }
         return true;
     }
