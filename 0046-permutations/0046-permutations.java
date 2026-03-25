@@ -1,25 +1,24 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> op = new ArrayList<>();
-        int n = nums.length;
-        boolean used[] = new boolean[n];
-        backtrack(nums,used,n, op, new ArrayList<>());
+        boolean visited[] = new boolean[nums.length];
+        backtrack(nums,op,new ArrayList<>(),visited);
         return op;
     }
-    public void backtrack(int nums[], boolean used[], int n, List<List<Integer>> op, List<Integer> curr)
+    public void backtrack(int nums[],List<List<Integer>> res, List<Integer> curr, boolean visited[])
     {
-        if(curr.size()==n)
+        if(curr.size() == nums.length)
         {
-            op.add(new ArrayList<>(curr));
+            res.add(new ArrayList<>(curr));
             return;
         }
-        for(int i=0;i<n;i++)
+        for(int i=0;i<nums.length;i++)
         {
-            if(used[i]) continue;
-            used[i] = true;
+            if(visited[i]==true) continue;
+            visited[i] = true;
             curr.add(nums[i]);
-            backtrack(nums,used,n,op,curr);
-            used[i] = false;
+            backtrack(nums,res,curr,visited);
+            visited[i] = false;
             curr.remove(curr.size()-1);
         }
     }
