@@ -1,36 +1,22 @@
 class Solution {
-    private static final Map<Character,String> map = new HashMap<>();
-    static{
-        map.put('2',"abc");
-        map.put('3',"def");
-        map.put('4',"ghi");
-        map.put('5',"jkl");
-        map.put('6',"mno");
-        map.put('7',"pqrs");
-        map.put('8',"tuv");
-        map.put('9',"wxyz");
-    }
+    String phoneMap[] = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
-        List<String> result = new ArrayList<>();
-        if(digits == null || digits.isEmpty()) return result;
-        backtrack(0,digits, result,new ArrayList<>());
-        return result;
+        List<String> res = new ArrayList<>();
+        if(digits.isEmpty()) return res;
+        backtrack(digits,res,0,"");
+        return res;
     }
-    private void backtrack(int start, String s, List<String> result, ArrayList<Character>path)
+    public void backtrack(String digits, List<String> res, int idx, String curr)
     {
-        if(start == s.length())
+        if(idx == digits.length())
         {
-            StringBuilder sb = new StringBuilder();
-            for(char ch : path) sb.append(ch);
-            result.add(sb.toString());
+            res.add(curr);
             return;
         }
-        String letters = map.get(s.charAt(start));
-        for(char ch : letters.toCharArray())
+        String letters = phoneMap[digits.charAt(idx)-'0'];
+        for(char letter : letters.toCharArray())
         {
-            path.add(ch);
-            backtrack(start+1,s,result,path);
-            path.remove(path.size()-1);
+            backtrack(digits,res,idx+1,curr+letter);
         }
     }
 }
