@@ -24,7 +24,7 @@ class Solution {
         if(root == null) return 0;
         int left = dfs(root.left);
         int right = dfs(root.right);
-        globalMax = Math.max(globalMax, left+right);
+        globalMax = Math.max(globalMax,left+right);
         return 1+Math.max(left,right);
     }
 }
