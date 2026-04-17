@@ -27,7 +27,7 @@ class Solution {
                 while(rightMost.right!=null) rightMost = rightMost.right;
                 rightMost.right = savedRight;
             }
-            curr=curr.right;
+            curr = curr.right;
         }
     }
 }
