@@ -20,14 +20,10 @@ class Solution {
     public int dfs(TreeNode root, int max)
     {
         if(root==null) return 0;
-        int count = 0;
-        if(root.val>=max)
-        {
-            count++;
-            max = root.val;
-        }
-        count+=dfs(root.left,max);
-        count+=dfs(root.right,max);
+        int count = root.val>=max?1:0;
+        int newMax = Math.max(max,root.val);
+        count+=dfs(root.left,newMax);
+        count+=dfs(root.right,newMax);
         return count;
     }
 }
