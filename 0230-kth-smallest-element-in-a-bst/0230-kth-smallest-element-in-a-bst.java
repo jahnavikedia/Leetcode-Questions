@@ -14,24 +14,21 @@
  * }
  */
 class Solution {
-    int count=0;
-    int result = 0;
+    int result = 0,count=0;
     public int kthSmallest(TreeNode root, int k) {
-        dfs(root,k);
+        inOrder(root,k);
         return result;
     }
-    public void dfs(TreeNode root, int k)
+    public void inOrder(TreeNode root, int k)
     {
-        if(root==null) return;
-        if(count>=k) return;
-        dfs(root.left,k);
+        if(root == null) return;
+        inOrder(root.left,k);
         count++;
-        if(count == k)
+        if(count==k)
         {
-            result = root.val;
+            result=root.val;
             return;
         }
-        dfs(root.right, k);
-        
+        inOrder(root.right,k);
     }
 }
